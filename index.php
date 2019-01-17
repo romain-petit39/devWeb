@@ -6,5 +6,6 @@
     <body>
        <p>ceci est l'index</p>
        <p>Ceci est la ligne 2</p>
+       <p>Ceci est la ligne 3</p>
     </body>
 </html>
